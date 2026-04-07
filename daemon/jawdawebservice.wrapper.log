@@ -1,0 +1,396 @@
+2025-09-29 21:45:47 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-09-29 21:45:47 - Started 3404
+2025-09-30 03:54:04 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-09-30 03:54:06 - Started 6240
+2025-09-30 18:55:54 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-09-30 18:55:56 - Started 6016
+2025-09-30 22:38:34 - Stopping jawdawebservice.exe
+2025-09-30 22:38:34 - ProcessKill 6016
+2025-09-30 22:38:38 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-09-30 22:52:24 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-09-30 22:52:50 - Started 2608
+2025-09-30 22:56:28 - Stopping jawdawebservice.exe
+2025-09-30 22:56:28 - ProcessKill 2608
+2025-09-30 22:56:31 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-09-30 22:59:08 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-09-30 22:59:16 - Started 5908
+2025-10-01 12:03:19 - Stopping jawdawebservice.exe
+2025-10-01 12:03:20 - ProcessKill 5908
+2025-10-01 12:03:23 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-01 12:05:47 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-01 12:05:50 - Started 5800
+2025-10-02 01:10:54 - Stopping jawdawebservice.exe
+2025-10-02 01:10:54 - ProcessKill 5800
+2025-10-02 01:10:58 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-02 04:12:26 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-02 04:12:31 - Started 3428
+2025-10-02 21:56:42 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-02 21:56:44 - Started 5784
+2025-10-02 22:01:12 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-02 22:01:17 - Started 6092
+2025-10-03 00:45:10 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-03 00:45:12 - Started 5000
+2025-10-03 09:58:55 - Stopping jawdawebservice.exe
+2025-10-03 09:58:55 - ProcessKill 5000
+2025-10-03 09:58:57 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-03 10:01:44 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-03 10:01:47 - Started 6736
+2025-10-03 21:15:24 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-03 21:15:25 - Started 6464
+2025-10-04 01:15:01 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-04 01:15:02 - Started 6572
+2025-10-06 19:06:11 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-06 19:06:12 - Started 2000
+2025-10-06 19:14:52 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-06 19:14:54 - Started 380
+2025-10-07 01:34:57 - Stopping jawdawebservice.exe
+2025-10-07 01:34:58 - ProcessKill 380
+2025-10-07 01:35:02 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-07 01:40:04 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-07 01:40:06 - Started 3080
+2025-10-07 12:48:15 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-07 12:48:18 - Started 8776
+2025-10-07 13:57:50 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-07 13:57:51 - Started 6832
+2025-10-07 17:24:57 - Stopping jawdawebservice.exe
+2025-10-07 17:24:57 - ProcessKill 6832
+2025-10-07 17:24:58 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-08 02:29:08 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-08 02:29:11 - Started 1724
+2025-10-08 02:42:54 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-08 02:42:57 - Started 5136
+2025-10-08 19:14:59 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-08 19:15:02 - Started 1844
+2025-10-08 19:43:00 - Stopping jawdawebservice.exe
+2025-10-08 19:43:00 - ProcessKill 1844
+2025-10-08 19:43:01 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-09 13:58:03 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-09 13:58:06 - Started 9348
+2025-10-09 15:54:16 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-09 15:54:19 - Started 10148
+2025-10-09 16:23:55 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-09 16:23:56 - Started 6864
+2025-10-09 17:37:46 - Stopping jawdawebservice.exe
+2025-10-09 17:37:46 - ProcessKill 6864
+2025-10-09 17:37:47 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-10 21:57:06 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-10 21:57:11 - Started 6188
+2025-10-11 01:15:01 - Stopping jawdawebservice.exe
+2025-10-11 01:15:02 - ProcessKill 6188
+2025-10-11 01:15:08 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-11 01:31:30 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-11 01:31:31 - Started 1792
+2025-10-11 04:34:20 - Stopping jawdawebservice.exe
+2025-10-11 04:34:20 - ProcessKill 1792
+2025-10-11 04:34:24 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-11 04:36:32 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-11 04:36:34 - Started 6816
+2025-10-11 08:09:57 - Stopping jawdawebservice.exe
+2025-10-11 08:09:57 - ProcessKill 6816
+2025-10-11 08:10:00 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-11 10:19:17 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-11 10:19:18 - Started 9716
+2025-10-11 21:25:38 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-11 21:25:41 - Started 1764
+2025-10-13 21:20:46 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-13 21:20:48 - Started 10020
+2025-10-13 23:47:22 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-13 23:47:24 - Started 876
+2025-10-14 02:16:03 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-14 02:16:04 - Started 4128
+2025-10-15 00:48:24 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-15 00:48:26 - Started 7784
+2025-10-20 08:35:02 - Stopping jawdawebservice.exe
+2025-10-20 08:35:02 - ProcessKill 7784
+2025-10-20 08:35:17 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-20 08:38:00 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-20 08:38:03 - Started 3684
+2025-10-20 09:48:52 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-20 09:48:54 - Started 7436
+2025-10-23 16:32:52 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-23 16:32:53 - Started 8824
+2025-10-23 17:25:15 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-23 17:25:16 - Started 7444
+2025-10-23 19:22:35 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-23 19:22:36 - Started 7368
+2025-10-24 11:56:36 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-24 11:56:37 - Started 7832
+2025-11-22 20:07:03 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-22 20:07:05 - Started 6932
+2025-11-22 22:15:52 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-22 22:15:57 - Started 6808
+2025-11-23 03:55:48 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-23 03:55:49 - Started 8868
+2026-03-10 19:40:57 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-10 19:41:00 - Started 7520
+2026-03-11 00:12:33 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-11 00:12:36 - Started 6236
+2026-03-11 03:51:17 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-11 03:51:19 - Started 5372
+2026-03-12 03:36:45 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-12 03:36:47 - Started 5992
+2026-03-12 05:17:42 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-12 05:17:42 - Started 5920
+2026-03-12 06:47:27 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-12 06:47:29 - Started 5716
+2026-03-12 07:05:55 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-12 07:05:55 - Started 5424
+2026-03-12 09:29:13 - Stopping jawdawebservice.exe
+2026-03-12 09:29:14 - ProcessKill 5424
+2026-03-12 09:29:17 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2026-03-13 00:26:57 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-13 00:26:57 - Started 5816
+2026-03-13 00:59:50 - Stopping jawdawebservice.exe
+2026-03-13 00:59:50 - ProcessKill 5816
+2026-03-13 00:59:52 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2026-03-15 00:12:34 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-15 00:12:37 - Started 7084
+2026-03-15 02:23:14 - Stopping jawdawebservice.exe
+2026-03-15 02:23:14 - ProcessKill 7084
+2026-03-15 02:23:17 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2026-03-15 03:20:49 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-15 03:20:53 - Started 5940
+2026-03-15 08:15:06 - Stopping jawdawebservice.exe
+2026-03-15 08:15:06 - ProcessKill 5940
+2026-03-15 08:15:08 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2026-03-15 21:04:40 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-15 21:04:41 - Started 6192
+2026-03-16 01:24:18 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-16 01:24:18 - Started 5592
+2026-03-16 02:01:05 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-16 02:01:05 - Started 5796
+2026-03-16 06:09:41 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-16 06:09:41 - Started 5916
+2026-03-18 18:22:52 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-18 18:22:52 - Started 6020
+2026-03-18 21:50:13 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-18 21:50:13 - Started 5448
+2026-03-18 22:27:10 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-18 22:27:11 - Started 5480
+2026-03-21 01:00:00 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-21 01:00:00 - Started 5240
+2026-03-22 13:37:07 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-22 13:37:07 - Started 6280
+2026-03-23 12:40:04 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-23 12:40:05 - Started 6268
+2026-03-23 17:57:26 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-23 17:57:27 - Started 5688
+2026-03-23 18:00:48 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-23 18:00:48 - Started 5632
+2026-03-24 08:41:37 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-24 08:41:37 - Started 5256
+2026-03-25 23:15:21 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-25 23:15:21 - Started 5632
+2026-03-26 00:19:06 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-26 00:19:08 - Started 5716
+2026-03-26 04:32:03 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-26 04:32:04 - Started 5340
+2026-03-27 19:44:47 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-27 19:44:48 - Started 5696
+2026-03-27 22:38:18 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-27 22:38:18 - Started 5708
+2026-03-27 23:39:47 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-03-27 23:39:48 - Started 5428
+2026-04-02 21:59:49 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-02 21:59:51 - Started 2860
+2026-04-02 22:37:14 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-02 22:37:17 - Started 6996
+2026-04-03 12:31:46 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-03 12:31:49 - Started 4700
+2026-04-03 12:47:19 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-03 12:47:20 - Started 1820
+2026-04-03 18:30:16 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-03 18:30:17 - Started 6928
+2026-04-05 17:39:06 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-05 17:39:10 - Started 6184
+2026-04-05 17:45:58 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-05 17:45:59 - Started 4000
+2026-04-06 19:47:36 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\app\node_modules\node-windows\lib\wrapper.js --file C:\app\test.js --scriptoptions= --log "jawda web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-06 19:47:37 - Started 7988

@@ -1,0 +1,70 @@
+2026-04-06 20:00:31 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-06 20:00:31 - Started 11532
+2026-04-06 20:35:35 - Stopping jawdanewhrwebservice.exe
+2026-04-06 20:35:35 - ProcessKill 11532
+2026-04-06 20:35:35 - Found child process: 11500 Name: conhost.exe
+2026-04-06 20:35:35 - Found child process: 8856 Name: node.exe
+2026-04-06 20:35:35 - Stopping process 11500
+2026-04-06 20:35:35 - Send SIGINT 11500
+2026-04-06 20:35:35 - SIGINT to 11500 failed - Killing as fallback
+2026-04-06 20:35:35 - Stopping process 8856
+2026-04-06 20:35:35 - Send SIGINT 8856
+2026-04-06 20:35:35 - SIGINT to 8856 failed - Killing as fallback
+2026-04-06 20:35:35 - Stopping process 11532
+2026-04-06 20:35:35 - Send SIGINT 11532
+2026-04-06 20:35:35 - SIGINT to 11532 failed - Killing as fallback
+2026-04-06 20:35:35 - Finished jawdanewhrwebservice.exe
+2026-04-06 20:35:53 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-06 20:35:53 - Started 8292
+2026-04-06 20:36:31 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-06 20:36:31 - Started 15396
+2026-04-06 20:39:04 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-06 20:39:04 - Started 7496
+2026-04-06 23:03:40 - Stopping jawdanewhrwebservice.exe
+2026-04-06 23:03:40 - ProcessKill 7496
+2026-04-06 23:03:40 - Found child process: 15868 Name: conhost.exe
+2026-04-06 23:03:40 - Found child process: 4752 Name: node.exe
+2026-04-06 23:03:40 - Stopping process 15868
+2026-04-06 23:03:40 - Send SIGINT 15868
+2026-04-06 23:03:40 - SIGINT to 15868 failed - Killing as fallback
+2026-04-06 23:03:40 - Stopping process 4752
+2026-04-06 23:03:40 - Send SIGINT 4752
+2026-04-06 23:03:40 - SIGINT to 4752 failed - Killing as fallback
+2026-04-06 23:03:40 - Stopping process 7496
+2026-04-06 23:03:40 - Send SIGINT 7496
+2026-04-06 23:03:40 - SIGINT to 7496 failed - Killing as fallback
+2026-04-06 23:03:40 - Finished jawdanewhrwebservice.exe
+2026-04-06 23:08:29 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-06 23:08:30 - Started 6284
+2026-04-06 23:12:50 - Stopping jawdanewhrwebservice.exe
+2026-04-06 23:12:50 - ProcessKill 6284
+2026-04-06 23:12:50 - Found child process: 6812 Name: conhost.exe
+2026-04-06 23:12:50 - Found child process: 1616 Name: node.exe
+2026-04-06 23:12:50 - Stopping process 6812
+2026-04-06 23:12:50 - Send SIGINT 6812
+2026-04-06 23:12:50 - SIGINT to 6812 failed - Killing as fallback
+2026-04-06 23:12:50 - Stopping process 1616
+2026-04-06 23:12:50 - Send SIGINT 1616
+2026-04-06 23:12:50 - SIGINT to 1616 failed - Killing as fallback
+2026-04-06 23:12:50 - Stopping process 6284
+2026-04-06 23:12:50 - Send SIGINT 6284
+2026-04-06 23:12:50 - SIGINT to 6284 failed - Killing as fallback
+2026-04-06 23:12:50 - Finished jawdanewhrwebservice.exe
+2026-04-06 23:44:55 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-06 23:44:55 - Started 11196
+2026-04-07 00:24:25 - Stopping jawdanewhrwebservice.exe
+2026-04-07 00:24:25 - ProcessKill 11196
+2026-04-07 00:24:25 - Found child process: 8112 Name: conhost.exe
+2026-04-07 00:24:25 - Found child process: 4676 Name: node.exe
+2026-04-07 00:24:25 - Stopping process 8112
+2026-04-07 00:24:25 - Send SIGINT 8112
+2026-04-07 00:24:25 - SIGINT to 8112 failed - Killing as fallback
+2026-04-07 00:24:25 - Stopping process 4676
+2026-04-07 00:24:25 - Send SIGINT 4676
+2026-04-07 00:24:25 - SIGINT to 4676 failed - Killing as fallback
+2026-04-07 00:24:25 - Stopping process 11196
+2026-04-07 00:24:25 - Send SIGINT 11196
+2026-04-07 00:24:25 - SIGINT to 11196 failed - Killing as fallback
+2026-04-07 00:24:25 - Finished jawdanewhrwebservice.exe
+2026-04-07 00:24:44 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-07 00:24:44 - Started 2812
