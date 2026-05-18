@@ -68,3 +68,69 @@
 2026-04-07 00:24:25 - Finished jawdanewhrwebservice.exe
 2026-04-07 00:24:44 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2026-04-07 00:24:44 - Started 2812
+2026-04-09 07:11:15 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-09 07:11:17 - Started 5784
+2026-04-13 23:41:50 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-13 23:41:50 - Started 5896
+2026-04-14 09:47:03 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-14 09:47:03 - Started 6040
+2026-04-14 11:00:25 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-14 11:00:25 - Started 5528
+2026-04-14 13:22:51 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-14 13:22:52 - Started 5596
+2026-04-16 09:08:15 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-16 09:08:15 - Started 5904
+2026-04-19 21:25:40 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-19 21:25:40 - Started 6200
+2026-04-20 09:47:09 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-20 09:47:09 - Started 5672
+2026-04-20 11:00:27 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-20 11:00:29 - Started 4944
+2026-04-20 21:41:22 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-20 21:41:22 - Started 5940
+2026-04-22 00:47:56 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-22 00:47:56 - Started 5568
+2026-04-22 02:41:40 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-22 02:41:40 - Started 5432
+2026-04-22 23:35:25 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-22 23:35:26 - Started 6228
+2026-04-22 23:52:50 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-22 23:52:50 - Started 5680
+2026-04-23 03:02:17 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-23 03:02:17 - Started 5948
+2026-04-23 06:02:28 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-23 06:02:28 - Started 5464
+2026-04-23 16:36:47 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-23 16:36:48 - Started 6960
+2026-04-24 01:25:02 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-24 01:25:02 - Started 6112
+2026-04-24 02:05:37 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-24 02:05:37 - Started 5608
+2026-04-24 12:42:15 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-24 12:42:16 - Started 5988
+2026-04-24 14:07:18 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-24 14:07:18 - Started 6252
+2026-04-24 17:43:25 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-24 17:43:26 - Started 5692
+2026-04-25 23:16:34 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-25 23:16:35 - Started 6180
+2026-04-26 01:26:17 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-26 01:26:19 - Started 6168
+2026-04-26 02:48:07 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-26 02:48:07 - Started 5388
+2026-04-26 11:01:51 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-26 11:01:52 - Started 5244
+2026-04-27 14:43:19 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-27 14:43:19 - Started 4952
+2026-04-27 16:42:50 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-27 16:42:55 - Started 6256
+2026-04-28 21:50:24 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-28 21:50:26 - Started 5140
+2026-04-29 22:07:44 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-29 22:07:45 - Started 5812
+2026-04-30 01:48:45 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-04-30 01:48:50 - Started 6908
+2026-05-12 22:11:09 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-05-12 22:11:13 - Started 6924
+2026-05-14 16:52:53 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\hr\node_modules\node-windows\lib\wrapper.js --file C:\hr\test.js --scriptoptions= --log "jawda new hr web service  wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-05-14 16:52:55 - Started 5996

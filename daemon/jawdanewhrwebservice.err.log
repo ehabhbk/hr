@@ -154,3 +154,25 @@ Emitted 'error' event on Server instance at:
 }
 
 Node.js v22.11.0
+URIError: Failed to decode param '%PUBLIC_URL%/manifest.json'
+    at decodeURIComponent (<anonymous>)
+    at decode_param (C:\hr\node_modules\express\lib\router\layer.js:172:12)
+    at Layer.match (C:\hr\node_modules\express\lib\router\layer.js:148:15)
+    at matchLayer (C:\hr\node_modules\express\lib\router\index.js:585:18)
+    at next (C:\hr\node_modules\express\lib\router\index.js:226:15)
+    at SendStream.error (C:\hr\node_modules\serve-static\index.js:121:7)
+    at SendStream.emit (node:events:518:28)
+    at SendStream.error (C:\hr\node_modules\send\index.js:270:17)
+    at SendStream.pipe (C:\hr\node_modules\send\index.js:516:10)
+    at serveStatic (C:\hr\node_modules\serve-static\index.js:125:12)
+URIError: Failed to decode param '%PUBLIC_URL%/favicon.ico'
+    at decodeURIComponent (<anonymous>)
+    at decode_param (C:\hr\node_modules\express\lib\router\layer.js:172:12)
+    at Layer.match (C:\hr\node_modules\express\lib\router\layer.js:148:15)
+    at matchLayer (C:\hr\node_modules\express\lib\router\index.js:585:18)
+    at next (C:\hr\node_modules\express\lib\router\index.js:226:15)
+    at SendStream.error (C:\hr\node_modules\serve-static\index.js:121:7)
+    at SendStream.emit (node:events:518:28)
+    at SendStream.error (C:\hr\node_modules\send\index.js:270:17)
+    at SendStream.pipe (C:\hr\node_modules\send\index.js:516:10)
+    at serveStatic (C:\hr\node_modules\serve-static\index.js:125:12)
